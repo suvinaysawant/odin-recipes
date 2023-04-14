@@ -4,4 +4,4 @@
 
 A HTML website for showcasing recipes.
 
-Live Site -
+Live Site - https://suvinaysawant.github.io/odin-recipes
